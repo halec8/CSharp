@@ -1,0 +1,8 @@
+C:\Users\halel\Desktop\student_sample_programs\student_sample_programs\Chap06\Pay and Bonus\Pay and Bonus\bin\Debug\Pay and Bonus.exe
+C:\Users\halel\Desktop\student_sample_programs\student_sample_programs\Chap06\Pay and Bonus\Pay and Bonus\bin\Debug\Pay and Bonus.pdb
+C:\Users\halel\Desktop\student_sample_programs\student_sample_programs\Chap06\Pay and Bonus\Pay and Bonus\obj\x86\Debug\Pay and Bonus.csprojAssemblyReference.cache
+C:\Users\halel\Desktop\student_sample_programs\student_sample_programs\Chap06\Pay and Bonus\Pay and Bonus\obj\x86\Debug\Pay_and_Bonus.PayAndBonus.resources
+C:\Users\halel\Desktop\student_sample_programs\student_sample_programs\Chap06\Pay and Bonus\Pay and Bonus\obj\x86\Debug\Pay_and_Bonus.Properties.Resources.resources
+C:\Users\halel\Desktop\student_sample_programs\student_sample_programs\Chap06\Pay and Bonus\Pay and Bonus\obj\x86\Debug\Pay and Bonus.csproj.GenerateResource.cache
+C:\Users\halel\Desktop\student_sample_programs\student_sample_programs\Chap06\Pay and Bonus\Pay and Bonus\obj\x86\Debug\Pay and Bonus.exe
+C:\Users\halel\Desktop\student_sample_programs\student_sample_programs\Chap06\Pay and Bonus\Pay and Bonus\obj\x86\Debug\Pay and Bonus.pdb

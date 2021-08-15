@@ -1,0 +1,26 @@
+class TextBook : Book
+	{
+		// Fields
+		private string _category
+		private string _editor
+	}
+
+	public void TextBook()
+	{
+		_category = "";
+
+		_editor = "";
+
+	}
+
+	public string Category
+	{
+		get { return _category; }
+		set { _category = value; }
+	}
+
+	public string Editor
+	{
+		get { return _editor; }
+		set { _editor = value; }
+	}

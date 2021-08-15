@@ -1,0 +1,78 @@
+class Address
+{
+	//Fields
+	private  int _streetNumber
+	private string _streetName
+	private int _apartmentNumber
+	private string _cityName
+	private string _stateName
+	private int _zipCode
+	private string _countryName
+
+	//constructor
+
+	public Address(int streetNumber, string streetName, int apartmentNumber, 
+	string cityName, string stateName, int zipCode, string countryName)
+
+	{
+		_streetNumber = streetNumber;
+		_streetName = streetName;
+		_apartmentNumber = apartmentNumber;
+		_cityName = cityName;
+		_stateName = stateName;
+		_zipCode = zipCode;
+	}
+
+	public int StreetNum
+
+	{
+	get { return _streetNumber; }
+	set { _streetNumber = value; }
+	}
+
+	public string StreetName
+	{
+
+	get { return _streetName; }
+	set { _streetNumber = value; }
+
+	}
+
+	public int ApartmentNum
+	{
+
+	get { return _apartmentNumber; }
+	set { _apartmentNumber = value; }
+
+	}
+
+	public string CityName
+	{
+
+	get { return _cityName; }
+	set { _cityName = value; }
+
+	}
+
+	public string StateName
+	{
+
+	get {return _stateName; }
+	set { _stateName = value; }
+
+	}
+
+	public int ZipCode
+	{
+
+	get {return _zipCode; }
+	set { _zipCode = value; }
+	}
+
+	public string CountryName
+	{
+	get {return _countryName; }
+	set { _countryName = value; }
+	
+	}
+}

@@ -1,0 +1,30 @@
+private void main
+		{
+
+		// First book object
+		 Book myBook = new myBook();
+
+		 myBook.Name("Shattered Mirror");
+		 myBook.Author("Amerlia Atwater-Rhodes");
+		 myBook.Publisher("Delacorte Press");
+		 myBook.Isbn(0-385-32793-5)
+
+		 //Second object that inherits the myBook object properties and is amended
+
+		 TextBook myTextBook = new myTextBook(myBook);
+
+		 myTextBook.category("Horror");
+		 myTextBook.editor("Random House");
+
+
+
+		 // displays data
+
+		 nameLabelBox.Text = myBook.Name;
+		 authorLabelBox.Text = myBook.Author;
+		 publisherLabelBox.Text = myBook.Publisher;
+		 isbnLabelBox.Text = myBook.Isbn;
+		 categoryLabelBox.Text = myTextBook.Category;
+		 editorLabelBox.Text = myTextBook.Editor;
+
+		}

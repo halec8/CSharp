@@ -1,0 +1,12 @@
+C:\Users\halel\source\repos\Product Queries\Product Queries\bin\Debug\ProductDB.mdf
+C:\Users\halel\source\repos\Product Queries\Product Queries\bin\Debug\ProductDB_log.ldf
+C:\Users\halel\source\repos\Product Queries\Product Queries\bin\Debug\Product Queries.exe.config
+C:\Users\halel\source\repos\Product Queries\Product Queries\bin\Debug\Product Queries.exe
+C:\Users\halel\source\repos\Product Queries\Product Queries\bin\Debug\Product Queries.pdb
+C:\Users\halel\source\repos\Product Queries\Product Queries\obj\Debug\Product Queries.csprojAssemblyReference.cache
+C:\Users\halel\source\repos\Product Queries\Product Queries\obj\Debug\Product_Queries.Properties.Resources.resources
+C:\Users\halel\source\repos\Product Queries\Product Queries\obj\Debug\Product Queries.csproj.GenerateResource.cache
+C:\Users\halel\source\repos\Product Queries\Product Queries\obj\Debug\Product Queries.csproj.CoreCompileInputs.cache
+C:\Users\halel\source\repos\Product Queries\Product Queries\obj\Debug\Product Queries.exe
+C:\Users\halel\source\repos\Product Queries\Product Queries\obj\Debug\Product Queries.pdb
+C:\Users\halel\source\repos\Product Queries\Product Queries\obj\Debug\Product_Queries.ProductDataSet.resources

@@ -1,0 +1,9 @@
+C:\Users\halel\Desktop\student_sample_programs\student_sample_programs\Chap05\Friend File\Friend File\bin\Debug\Friend File.exe
+C:\Users\halel\Desktop\student_sample_programs\student_sample_programs\Chap05\Friend File\Friend File\bin\Debug\Friend File.pdb
+C:\Users\halel\Desktop\student_sample_programs\student_sample_programs\Chap05\Friend File\Friend File\obj\x86\Debug\Friend File.csprojAssemblyReference.cache
+C:\Users\halel\Desktop\student_sample_programs\student_sample_programs\Chap05\Friend File\Friend File\obj\x86\Debug\Friend_File.FriendFile.resources
+C:\Users\halel\Desktop\student_sample_programs\student_sample_programs\Chap05\Friend File\Friend File\obj\x86\Debug\Friend_File.Properties.Resources.resources
+C:\Users\halel\Desktop\student_sample_programs\student_sample_programs\Chap05\Friend File\Friend File\obj\x86\Debug\Friend File.csproj.GenerateResource.cache
+C:\Users\halel\Desktop\student_sample_programs\student_sample_programs\Chap05\Friend File\Friend File\obj\x86\Debug\Friend File.csproj.CoreCompileInputs.cache
+C:\Users\halel\Desktop\student_sample_programs\student_sample_programs\Chap05\Friend File\Friend File\obj\x86\Debug\Friend File.exe
+C:\Users\halel\Desktop\student_sample_programs\student_sample_programs\Chap05\Friend File\Friend File\obj\x86\Debug\Friend File.pdb

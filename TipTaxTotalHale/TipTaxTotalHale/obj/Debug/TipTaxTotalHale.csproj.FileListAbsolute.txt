@@ -1,0 +1,10 @@
+C:\Users\halel\source\repos\TipTaxTotalHale\TipTaxTotalHale\bin\Debug\TipTaxTotalHale.exe.config
+C:\Users\halel\source\repos\TipTaxTotalHale\TipTaxTotalHale\bin\Debug\TipTaxTotalHale.exe
+C:\Users\halel\source\repos\TipTaxTotalHale\TipTaxTotalHale\bin\Debug\TipTaxTotalHale.pdb
+C:\Users\halel\source\repos\TipTaxTotalHale\TipTaxTotalHale\obj\Debug\TipTaxTotalHale.csprojAssemblyReference.cache
+C:\Users\halel\source\repos\TipTaxTotalHale\TipTaxTotalHale\obj\Debug\TipTaxTotalHale.TipTaxTotal.resources
+C:\Users\halel\source\repos\TipTaxTotalHale\TipTaxTotalHale\obj\Debug\TipTaxTotalHale.Properties.Resources.resources
+C:\Users\halel\source\repos\TipTaxTotalHale\TipTaxTotalHale\obj\Debug\TipTaxTotalHale.csproj.GenerateResource.cache
+C:\Users\halel\source\repos\TipTaxTotalHale\TipTaxTotalHale\obj\Debug\TipTaxTotalHale.csproj.CoreCompileInputs.cache
+C:\Users\halel\source\repos\TipTaxTotalHale\TipTaxTotalHale\obj\Debug\TipTaxTotalHale.exe
+C:\Users\halel\source\repos\TipTaxTotalHale\TipTaxTotalHale\obj\Debug\TipTaxTotalHale.pdb

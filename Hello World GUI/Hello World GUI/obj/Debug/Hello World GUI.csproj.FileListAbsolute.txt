@@ -1,0 +1,8 @@
+C:\Users\halel\Desktop\DMACC - C#\Hello World GUI\Hello World GUI\obj\Debug\Hello World GUI.csprojAssemblyReference.cache
+C:\Users\halel\Desktop\DMACC - C#\Hello World GUI\Hello World GUI\obj\Debug\_EmptyResource.resources
+C:\Users\halel\Desktop\DMACC - C#\Hello World GUI\Hello World GUI\obj\Debug\Hello World GUI.csproj.GenerateResource.cache
+C:\Users\halel\Desktop\DMACC - C#\Hello World GUI\Hello World GUI\obj\Debug\Hello World GUI.csproj.CoreCompileInputs.cache
+C:\Users\halel\Desktop\DMACC - C#\Hello World GUI\Hello World GUI\obj\Debug\CSharp\1033\Hello World GUI.zip
+C:\Users\halel\Desktop\DMACC - C#\Hello World GUI\Hello World GUI\obj\Debug\Hello World GUI.dll
+C:\Users\halel\Desktop\DMACC - C#\Hello World GUI\Hello World GUI\obj\Debug\Hello World GUI.pdb
+C:\Users\halel\Desktop\DMACC - C#\Hello World GUI\Hello World GUI\bin\Debug\ProjectTemplates\CSharp\1033\Hello World GUI.zip

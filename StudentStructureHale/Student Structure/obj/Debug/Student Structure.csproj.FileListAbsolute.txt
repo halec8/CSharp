@@ -1,0 +1,10 @@
+C:\Users\halel\source\repos\Student Structure\Student Structure\bin\Debug\Student Structure.exe.config
+C:\Users\halel\source\repos\Student Structure\Student Structure\bin\Debug\Student Structure.exe
+C:\Users\halel\source\repos\Student Structure\Student Structure\bin\Debug\Student Structure.pdb
+C:\Users\halel\source\repos\Student Structure\Student Structure\obj\Debug\Student Structure.csprojAssemblyReference.cache
+C:\Users\halel\source\repos\Student Structure\Student Structure\obj\Debug\Student_Structure.StudentStructureProgram.resources
+C:\Users\halel\source\repos\Student Structure\Student Structure\obj\Debug\Student_Structure.Properties.Resources.resources
+C:\Users\halel\source\repos\Student Structure\Student Structure\obj\Debug\Student Structure.csproj.GenerateResource.cache
+C:\Users\halel\source\repos\Student Structure\Student Structure\obj\Debug\Student Structure.csproj.CoreCompileInputs.cache
+C:\Users\halel\source\repos\Student Structure\Student Structure\obj\Debug\Student Structure.exe
+C:\Users\halel\source\repos\Student Structure\Student Structure\obj\Debug\Student Structure.pdb

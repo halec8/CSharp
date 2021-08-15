@@ -1,0 +1,10 @@
+C:\Users\halel\source\repos\PictureFrame\PictureFrame\bin\Debug\PictureFrame.exe.config
+C:\Users\halel\source\repos\PictureFrame\PictureFrame\bin\Debug\PictureFrame.exe
+C:\Users\halel\source\repos\PictureFrame\PictureFrame\bin\Debug\PictureFrame.pdb
+C:\Users\halel\source\repos\PictureFrame\PictureFrame\obj\Debug\PictureFrame.csprojAssemblyReference.cache
+C:\Users\halel\source\repos\PictureFrame\PictureFrame\obj\Debug\PictureFrame.PictureFrame.resources
+C:\Users\halel\source\repos\PictureFrame\PictureFrame\obj\Debug\PictureFrame.Properties.Resources.resources
+C:\Users\halel\source\repos\PictureFrame\PictureFrame\obj\Debug\PictureFrame.csproj.GenerateResource.cache
+C:\Users\halel\source\repos\PictureFrame\PictureFrame\obj\Debug\PictureFrame.csproj.CoreCompileInputs.cache
+C:\Users\halel\source\repos\PictureFrame\PictureFrame\obj\Debug\PictureFrame.exe
+C:\Users\halel\source\repos\PictureFrame\PictureFrame\obj\Debug\PictureFrame.pdb

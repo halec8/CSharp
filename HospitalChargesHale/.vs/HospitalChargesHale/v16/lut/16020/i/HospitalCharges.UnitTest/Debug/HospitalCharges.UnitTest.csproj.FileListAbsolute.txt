@@ -1,0 +1,7 @@
+C:\Users\halel\Desktop\HospitalChargesHale\.vs\HospitalChargesHale\v16\lut\0\b\HospitalCharges.UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\halel\Desktop\HospitalChargesHale\.vs\HospitalChargesHale\v16\lut\0\b\HospitalCharges.UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\halel\Desktop\HospitalChargesHale\.vs\HospitalChargesHale\v16\lut\0\b\HospitalCharges.UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\halel\Desktop\HospitalChargesHale\.vs\HospitalChargesHale\v16\lut\0\b\HospitalCharges.UnitTest\bin\Debug\HospitalCharges.UnitTest.dll
+C:\Users\halel\Desktop\HospitalChargesHale\.vs\HospitalChargesHale\v16\lut\0\i\HospitalCharges.UnitTest\Debug\HospitalCharges.UnitTest.csproj.CopyComplete
+C:\Users\halel\Desktop\HospitalChargesHale\.vs\HospitalChargesHale\v16\lut\0\i\HospitalCharges.UnitTest\Debug\HospitalCharges.UnitTest.dll
+C:\Users\halel\Desktop\HospitalChargesHale\.vs\HospitalChargesHale\v16\lut\0\i\HospitalCharges.UnitTest\Debug\HospitalCharges.UnitTest.csprojAssemblyReference.cache

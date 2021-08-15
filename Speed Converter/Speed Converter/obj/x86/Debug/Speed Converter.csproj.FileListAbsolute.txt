@@ -1,0 +1,9 @@
+C:\Users\halel\Desktop\Speed Converter\Speed Converter\bin\Debug\Speed Converter.exe
+C:\Users\halel\Desktop\Speed Converter\Speed Converter\bin\Debug\Speed Converter.pdb
+C:\Users\halel\Desktop\Speed Converter\Speed Converter\obj\x86\Debug\Speed Converter.csprojAssemblyReference.cache
+C:\Users\halel\Desktop\Speed Converter\Speed Converter\obj\x86\Debug\Speed_Converter.Form1.resources
+C:\Users\halel\Desktop\Speed Converter\Speed Converter\obj\x86\Debug\Speed_Converter.Properties.Resources.resources
+C:\Users\halel\Desktop\Speed Converter\Speed Converter\obj\x86\Debug\Speed Converter.csproj.GenerateResource.cache
+C:\Users\halel\Desktop\Speed Converter\Speed Converter\obj\x86\Debug\Speed Converter.csproj.CoreCompileInputs.cache
+C:\Users\halel\Desktop\Speed Converter\Speed Converter\obj\x86\Debug\Speed Converter.exe
+C:\Users\halel\Desktop\Speed Converter\Speed Converter\obj\x86\Debug\Speed Converter.pdb

@@ -1,0 +1,10 @@
+C:\Users\halel\source\repos\TextboxDemo\TextboxDemo\bin\Debug\TextboxDemo.exe.config
+C:\Users\halel\source\repos\TextboxDemo\TextboxDemo\bin\Debug\TextboxDemo.exe
+C:\Users\halel\source\repos\TextboxDemo\TextboxDemo\bin\Debug\TextboxDemo.pdb
+C:\Users\halel\source\repos\TextboxDemo\TextboxDemo\obj\Debug\TextboxDemo.csprojAssemblyReference.cache
+C:\Users\halel\source\repos\TextboxDemo\TextboxDemo\obj\Debug\TextboxDemo.textBoxdemo.resources
+C:\Users\halel\source\repos\TextboxDemo\TextboxDemo\obj\Debug\TextboxDemo.Properties.Resources.resources
+C:\Users\halel\source\repos\TextboxDemo\TextboxDemo\obj\Debug\TextboxDemo.csproj.GenerateResource.cache
+C:\Users\halel\source\repos\TextboxDemo\TextboxDemo\obj\Debug\TextboxDemo.csproj.CoreCompileInputs.cache
+C:\Users\halel\source\repos\TextboxDemo\TextboxDemo\obj\Debug\TextboxDemo.exe
+C:\Users\halel\source\repos\TextboxDemo\TextboxDemo\obj\Debug\TextboxDemo.pdb

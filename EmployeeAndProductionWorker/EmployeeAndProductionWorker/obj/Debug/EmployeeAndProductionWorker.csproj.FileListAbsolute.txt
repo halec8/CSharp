@@ -1,0 +1,10 @@
+C:\Users\halel\source\repos\EmployeeAndProductionWorker\EmployeeAndProductionWorker\bin\Debug\EmployeeAndProductionWorker.exe.config
+C:\Users\halel\source\repos\EmployeeAndProductionWorker\EmployeeAndProductionWorker\bin\Debug\EmployeeAndProductionWorker.exe
+C:\Users\halel\source\repos\EmployeeAndProductionWorker\EmployeeAndProductionWorker\bin\Debug\EmployeeAndProductionWorker.pdb
+C:\Users\halel\source\repos\EmployeeAndProductionWorker\EmployeeAndProductionWorker\obj\Debug\EmployeeAndProductionWorker.csprojAssemblyReference.cache
+C:\Users\halel\source\repos\EmployeeAndProductionWorker\EmployeeAndProductionWorker\obj\Debug\EmployeeAndProductionWorker.Properties.Resources.resources
+C:\Users\halel\source\repos\EmployeeAndProductionWorker\EmployeeAndProductionWorker\obj\Debug\EmployeeAndProductionWorker.csproj.GenerateResource.cache
+C:\Users\halel\source\repos\EmployeeAndProductionWorker\EmployeeAndProductionWorker\obj\Debug\EmployeeAndProductionWorker.csproj.CoreCompileInputs.cache
+C:\Users\halel\source\repos\EmployeeAndProductionWorker\EmployeeAndProductionWorker\obj\Debug\EmployeeAndProductionWorker.exe
+C:\Users\halel\source\repos\EmployeeAndProductionWorker\EmployeeAndProductionWorker\obj\Debug\EmployeeAndProductionWorker.pdb
+C:\Users\halel\source\repos\EmployeeAndProductionWorker\EmployeeAndProductionWorker\obj\Debug\EmployeeAndProductionWorker.EmployeeAndProductionWorker.resources

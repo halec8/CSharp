@@ -1,0 +1,16 @@
+C:\Users\halel\Desktop\DMACC - C#\ValidationTests\Validation.Tests\obj\Debug\ValidationClass.Tests.csprojAssemblyReference.cache
+C:\Users\halel\Desktop\DMACC - C#\ValidationTests\Validation.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\halel\Desktop\DMACC - C#\ValidationTests\Validation.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\halel\Desktop\DMACC - C#\ValidationTests\Validation.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\halel\Desktop\DMACC - C#\ValidationTests\Validation.Tests\bin\Debug\Validation.Tests.dll
+C:\Users\halel\Desktop\DMACC - C#\ValidationTests\Validation.Tests\bin\Debug\Validation.Tests.pdb
+C:\Users\halel\Desktop\DMACC - C#\ValidationTests\Validation.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\halel\Desktop\DMACC - C#\ValidationTests\Validation.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\halel\Desktop\DMACC - C#\ValidationTests\Validation.Tests\bin\Debug\ValidationTests.exe
+C:\Users\halel\Desktop\DMACC - C#\ValidationTests\Validation.Tests\bin\Debug\ValidationTests.pdb
+C:\Users\halel\Desktop\DMACC - C#\ValidationTests\Validation.Tests\bin\Debug\ValidationTests.exe.config
+C:\Users\halel\Desktop\DMACC - C#\ValidationTests\Validation.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\halel\Desktop\DMACC - C#\ValidationTests\Validation.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\halel\Desktop\DMACC - C#\ValidationTests\Validation.Tests\obj\Debug\ValidationClass.Tests.csproj.CopyComplete
+C:\Users\halel\Desktop\DMACC - C#\ValidationTests\Validation.Tests\obj\Debug\Validation.Tests.dll
+C:\Users\halel\Desktop\DMACC - C#\ValidationTests\Validation.Tests\obj\Debug\Validation.Tests.pdb

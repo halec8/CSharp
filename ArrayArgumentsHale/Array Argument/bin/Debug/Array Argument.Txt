@@ -1,0 +1,9 @@
+The array's original contents: 
+1
+2
+3
+
+After calling SetToZero:
+0
+0
+0

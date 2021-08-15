@@ -1,0 +1,7 @@
+C:\Users\halel\Desktop\DMACC - C#\ValidationTests\.vs\ValidationTests\v16\lut\0\b\Validation.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\halel\Desktop\DMACC - C#\ValidationTests\.vs\ValidationTests\v16\lut\0\b\Validation.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\halel\Desktop\DMACC - C#\ValidationTests\.vs\ValidationTests\v16\lut\0\b\Validation.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\halel\Desktop\DMACC - C#\ValidationTests\.vs\ValidationTests\v16\lut\0\b\Validation.Tests\bin\Debug\Validation.Tests.dll
+C:\Users\halel\Desktop\DMACC - C#\ValidationTests\.vs\ValidationTests\v16\lut\0\i\ValidationClass.Tests\Debug\ValidationClass.Tests.csprojAssemblyReference.cache
+C:\Users\halel\Desktop\DMACC - C#\ValidationTests\.vs\ValidationTests\v16\lut\0\i\ValidationClass.Tests\Debug\ValidationClass.Tests.csproj.CopyComplete
+C:\Users\halel\Desktop\DMACC - C#\ValidationTests\.vs\ValidationTests\v16\lut\0\i\ValidationClass.Tests\Debug\Validation.Tests.dll

@@ -1,0 +1,14 @@
+C:\Users\halel\source\repos\TestScoreAppHale\TestScoreAppHale\bin\Debug\TestScoreAppHale.exe.config
+C:\Users\halel\source\repos\TestScoreAppHale\TestScoreAppHale\bin\Debug\TestScoreAppHale.exe
+C:\Users\halel\source\repos\TestScoreAppHale\TestScoreAppHale\bin\Debug\TestScoreAppHale.pdb
+C:\Users\halel\source\repos\TestScoreAppHale\TestScoreAppHale\obj\Debug\TestScoreAppHale.csprojAssemblyReference.cache
+C:\Users\halel\source\repos\TestScoreAppHale\TestScoreAppHale\obj\Debug\TestScoreAppHale.csproj.CoreCompileInputs.cache
+C:\Users\halel\source\repos\TestScoreAppHale\TestScoreAppHale\obj\Debug\TestScoreAppHale.exe
+C:\Users\halel\source\repos\TestScoreAppHale\TestScoreAppHale\obj\Debug\TestScoreAppHale.pdb
+C:\Users\halel\Desktop\TestScoreAppHale\TestScoreAppHale\bin\Debug\TestScoreAppHale.exe.config
+C:\Users\halel\Desktop\TestScoreAppHale\TestScoreAppHale\bin\Debug\TestScoreAppHale.exe
+C:\Users\halel\Desktop\TestScoreAppHale\TestScoreAppHale\bin\Debug\TestScoreAppHale.pdb
+C:\Users\halel\Desktop\TestScoreAppHale\TestScoreAppHale\obj\Debug\TestScoreAppHale.csprojAssemblyReference.cache
+C:\Users\halel\Desktop\TestScoreAppHale\TestScoreAppHale\obj\Debug\TestScoreAppHale.csproj.CoreCompileInputs.cache
+C:\Users\halel\Desktop\TestScoreAppHale\TestScoreAppHale\obj\Debug\TestScoreAppHale.exe
+C:\Users\halel\Desktop\TestScoreAppHale\TestScoreAppHale\obj\Debug\TestScoreAppHale.pdb

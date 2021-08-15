@@ -1,0 +1,8 @@
+C:\Users\halel\Desktop\DMACC - C#\ValidationTests\ValidationTests\obj\Debug\ValidationTests.Properties.Resources.resources
+C:\Users\halel\Desktop\DMACC - C#\ValidationTests\ValidationTests\obj\Debug\ValidationTests.Validation.resources
+C:\Users\halel\Desktop\DMACC - C#\ValidationTests\ValidationTests\obj\Debug\Validation.csproj.GenerateResource.cache
+C:\Users\halel\Desktop\DMACC - C#\ValidationTests\ValidationTests\obj\Debug\ValidationTests.exe
+C:\Users\halel\Desktop\DMACC - C#\ValidationTests\ValidationTests\obj\Debug\ValidationTests.pdb
+C:\Users\halel\Desktop\DMACC - C#\ValidationTests\ValidationTests\bin\Debug\ValidationTests.exe.config
+C:\Users\halel\Desktop\DMACC - C#\ValidationTests\ValidationTests\bin\Debug\ValidationTests.exe
+C:\Users\halel\Desktop\DMACC - C#\ValidationTests\ValidationTests\bin\Debug\ValidationTests.pdb

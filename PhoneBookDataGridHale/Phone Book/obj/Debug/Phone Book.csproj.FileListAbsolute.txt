@@ -1,0 +1,12 @@
+C:\Users\halel\source\repos\Phone Book\Phone Book\bin\Debug\PhoneList.mdf
+C:\Users\halel\source\repos\Phone Book\Phone Book\bin\Debug\PhoneList_log.ldf
+C:\Users\halel\source\repos\Phone Book\Phone Book\bin\Debug\Phone Book.exe.config
+C:\Users\halel\source\repos\Phone Book\Phone Book\bin\Debug\Phone Book.exe
+C:\Users\halel\source\repos\Phone Book\Phone Book\bin\Debug\Phone Book.pdb
+C:\Users\halel\source\repos\Phone Book\Phone Book\obj\Debug\Phone Book.csprojAssemblyReference.cache
+C:\Users\halel\source\repos\Phone Book\Phone Book\obj\Debug\Phone_Book.Properties.Resources.resources
+C:\Users\halel\source\repos\Phone Book\Phone Book\obj\Debug\Phone Book.csproj.GenerateResource.cache
+C:\Users\halel\source\repos\Phone Book\Phone Book\obj\Debug\Phone Book.csproj.CoreCompileInputs.cache
+C:\Users\halel\source\repos\Phone Book\Phone Book\obj\Debug\Phone Book.exe
+C:\Users\halel\source\repos\Phone Book\Phone Book\obj\Debug\Phone Book.pdb
+C:\Users\halel\source\repos\Phone Book\Phone Book\obj\Debug\Phone_Book.PhoneList.resources

@@ -1,0 +1,10 @@
+C:\Users\halel\source\repos\DayOfTheWeekHale\DayOfTheWeekHale\bin\Debug\DayOfTheWeekHale.exe.config
+C:\Users\halel\source\repos\DayOfTheWeekHale\DayOfTheWeekHale\bin\Debug\DayOfTheWeekHale.exe
+C:\Users\halel\source\repos\DayOfTheWeekHale\DayOfTheWeekHale\bin\Debug\DayOfTheWeekHale.pdb
+C:\Users\halel\source\repos\DayOfTheWeekHale\DayOfTheWeekHale\obj\Debug\DayOfTheWeekHale.csprojAssemblyReference.cache
+C:\Users\halel\source\repos\DayOfTheWeekHale\DayOfTheWeekHale\obj\Debug\DayOfTheWeekHale.dayOfTheWeek.resources
+C:\Users\halel\source\repos\DayOfTheWeekHale\DayOfTheWeekHale\obj\Debug\DayOfTheWeekHale.Properties.Resources.resources
+C:\Users\halel\source\repos\DayOfTheWeekHale\DayOfTheWeekHale\obj\Debug\DayOfTheWeekHale.csproj.GenerateResource.cache
+C:\Users\halel\source\repos\DayOfTheWeekHale\DayOfTheWeekHale\obj\Debug\DayOfTheWeekHale.csproj.CoreCompileInputs.cache
+C:\Users\halel\source\repos\DayOfTheWeekHale\DayOfTheWeekHale\obj\Debug\DayOfTheWeekHale.exe
+C:\Users\halel\source\repos\DayOfTheWeekHale\DayOfTheWeekHale\obj\Debug\DayOfTheWeekHale.pdb

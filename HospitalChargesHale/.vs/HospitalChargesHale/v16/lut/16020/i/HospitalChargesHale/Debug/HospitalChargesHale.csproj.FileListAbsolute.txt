@@ -1,0 +1,8 @@
+C:\Users\halel\Desktop\HospitalChargesHale\.vs\HospitalChargesHale\v16\lut\0\b\HospitalChargesHale\bin\Debug\HospitalChargesHale.exe.config
+C:\Users\halel\Desktop\HospitalChargesHale\.vs\HospitalChargesHale\v16\lut\0\b\HospitalChargesHale\bin\Debug\HospitalChargesHale.exe
+C:\Users\halel\Desktop\HospitalChargesHale\.vs\HospitalChargesHale\v16\lut\0\i\HospitalChargesHale\Debug\HospitalChargesHale.HospitalCharges.resources
+C:\Users\halel\Desktop\HospitalChargesHale\.vs\HospitalChargesHale\v16\lut\0\i\HospitalChargesHale\Debug\HospitalChargesHale.Properties.Resources.resources
+C:\Users\halel\Desktop\HospitalChargesHale\.vs\HospitalChargesHale\v16\lut\0\i\HospitalChargesHale\Debug\HospitalChargesHale.csproj.GenerateResource.cache
+C:\Users\halel\Desktop\HospitalChargesHale\.vs\HospitalChargesHale\v16\lut\0\i\HospitalChargesHale\Debug\HospitalChargesHale.csproj.CopyComplete
+C:\Users\halel\Desktop\HospitalChargesHale\.vs\HospitalChargesHale\v16\lut\0\i\HospitalChargesHale\Debug\HospitalChargesHale.exe
+C:\Users\halel\Desktop\HospitalChargesHale\.vs\HospitalChargesHale\v16\lut\0\i\HospitalChargesHale\Debug\HospitalChargesHale.csprojAssemblyReference.cache

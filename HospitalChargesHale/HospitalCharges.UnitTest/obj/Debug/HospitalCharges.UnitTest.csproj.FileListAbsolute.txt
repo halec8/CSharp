@@ -1,0 +1,16 @@
+C:\Users\halel\Desktop\HospitalChargesHale\HospitalCharges.UnitTest\obj\Debug\HospitalCharges.UnitTest.csprojAssemblyReference.cache
+C:\Users\halel\Desktop\HospitalChargesHale\HospitalCharges.UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\halel\Desktop\HospitalChargesHale\HospitalCharges.UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\halel\Desktop\HospitalChargesHale\HospitalCharges.UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\halel\Desktop\HospitalChargesHale\HospitalCharges.UnitTest\bin\Debug\HospitalCharges.UnitTest.dll
+C:\Users\halel\Desktop\HospitalChargesHale\HospitalCharges.UnitTest\bin\Debug\HospitalCharges.UnitTest.pdb
+C:\Users\halel\Desktop\HospitalChargesHale\HospitalCharges.UnitTest\bin\Debug\HospitalChargesHale.exe
+C:\Users\halel\Desktop\HospitalChargesHale\HospitalCharges.UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\halel\Desktop\HospitalChargesHale\HospitalCharges.UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\halel\Desktop\HospitalChargesHale\HospitalCharges.UnitTest\bin\Debug\HospitalChargesHale.pdb
+C:\Users\halel\Desktop\HospitalChargesHale\HospitalCharges.UnitTest\bin\Debug\HospitalChargesHale.exe.config
+C:\Users\halel\Desktop\HospitalChargesHale\HospitalCharges.UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\halel\Desktop\HospitalChargesHale\HospitalCharges.UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\halel\Desktop\HospitalChargesHale\HospitalCharges.UnitTest\obj\Debug\HospitalCharges.UnitTest.csproj.CopyComplete
+C:\Users\halel\Desktop\HospitalChargesHale\HospitalCharges.UnitTest\obj\Debug\HospitalCharges.UnitTest.dll
+C:\Users\halel\Desktop\HospitalChargesHale\HospitalCharges.UnitTest\obj\Debug\HospitalCharges.UnitTest.pdb

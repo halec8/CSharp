@@ -1,0 +1,20 @@
+C:\Users\halel\source\repos\TicTacToeProgramHale\TicTacToeProgramHale\bin\Debug\TicTacToeProgramHale.exe.config
+C:\Users\halel\source\repos\TicTacToeProgramHale\TicTacToeProgramHale\bin\Debug\TicTacToeProgramHale.exe
+C:\Users\halel\source\repos\TicTacToeProgramHale\TicTacToeProgramHale\bin\Debug\TicTacToeProgramHale.pdb
+C:\Users\halel\source\repos\TicTacToeProgramHale\TicTacToeProgramHale\obj\Debug\TicTacToeProgramHale.csprojAssemblyReference.cache
+C:\Users\halel\source\repos\TicTacToeProgramHale\TicTacToeProgramHale\obj\Debug\TicTacToeProgramHale.TicTacToeGame.resources
+C:\Users\halel\source\repos\TicTacToeProgramHale\TicTacToeProgramHale\obj\Debug\TicTacToeProgramHale.Properties.Resources.resources
+C:\Users\halel\source\repos\TicTacToeProgramHale\TicTacToeProgramHale\obj\Debug\TicTacToeProgramHale.csproj.GenerateResource.cache
+C:\Users\halel\source\repos\TicTacToeProgramHale\TicTacToeProgramHale\obj\Debug\TicTacToeProgramHale.csproj.CoreCompileInputs.cache
+C:\Users\halel\source\repos\TicTacToeProgramHale\TicTacToeProgramHale\obj\Debug\TicTacToeProgramHale.exe
+C:\Users\halel\source\repos\TicTacToeProgramHale\TicTacToeProgramHale\obj\Debug\TicTacToeProgramHale.pdb
+C:\Users\halel\Desktop\DMACC - C#\TicTacToeProgramHale\TicTacToeProgramHale\bin\Debug\TicTacToeProgramHale.exe.config
+C:\Users\halel\Desktop\DMACC - C#\TicTacToeProgramHale\TicTacToeProgramHale\bin\Debug\TicTacToeProgramHale.exe
+C:\Users\halel\Desktop\DMACC - C#\TicTacToeProgramHale\TicTacToeProgramHale\bin\Debug\TicTacToeProgramHale.pdb
+C:\Users\halel\Desktop\DMACC - C#\TicTacToeProgramHale\TicTacToeProgramHale\obj\Debug\TicTacToeProgramHale.csprojAssemblyReference.cache
+C:\Users\halel\Desktop\DMACC - C#\TicTacToeProgramHale\TicTacToeProgramHale\obj\Debug\TicTacToeProgramHale.TicTacToe.resources
+C:\Users\halel\Desktop\DMACC - C#\TicTacToeProgramHale\TicTacToeProgramHale\obj\Debug\TicTacToeProgramHale.Properties.Resources.resources
+C:\Users\halel\Desktop\DMACC - C#\TicTacToeProgramHale\TicTacToeProgramHale\obj\Debug\TicTacToeProgramHale.csproj.GenerateResource.cache
+C:\Users\halel\Desktop\DMACC - C#\TicTacToeProgramHale\TicTacToeProgramHale\obj\Debug\TicTacToeProgramHale.csproj.CoreCompileInputs.cache
+C:\Users\halel\Desktop\DMACC - C#\TicTacToeProgramHale\TicTacToeProgramHale\obj\Debug\TicTacToeProgramHale.exe
+C:\Users\halel\Desktop\DMACC - C#\TicTacToeProgramHale\TicTacToeProgramHale\obj\Debug\TicTacToeProgramHale.pdb

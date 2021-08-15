@@ -1,0 +1,14 @@
+C:\Users\halel\Desktop\DMACC - C#\Employee Searching\Employee Searching\bin\Debug\Personnel.mdf
+C:\Users\halel\Desktop\DMACC - C#\Employee Searching\Employee Searching\bin\Debug\Personnel_log.ldf
+C:\Users\halel\Desktop\DMACC - C#\Employee Searching\Employee Searching\bin\Debug\Employee Searching.exe.config
+C:\Users\halel\Desktop\DMACC - C#\Employee Searching\Employee Searching\bin\Debug\Employee Searching.exe
+C:\Users\halel\Desktop\DMACC - C#\Employee Searching\Employee Searching\bin\Debug\Employee Searching.pdb
+C:\Users\halel\Desktop\DMACC - C#\Employee Searching\Employee Searching\obj\Debug\Employee_Searching.Properties.Resources.resources
+C:\Users\halel\Desktop\DMACC - C#\Employee Searching\Employee Searching\obj\Debug\Employee Searching.csproj.GenerateResource.cache
+C:\Users\halel\Desktop\DMACC - C#\Employee Searching\Employee Searching\obj\Debug\Employee Searching.exe
+C:\Users\halel\Desktop\DMACC - C#\Employee Searching\Employee Searching\obj\Debug\Employee Searching.pdb
+C:\Users\halel\Desktop\DMACC - C#\Employee Searching\Employee Searching\bin\Debug\PersonnelDataSet.Designer.cs
+C:\Users\halel\Desktop\DMACC - C#\Employee Searching\Employee Searching\bin\Debug\PersonnelDataSet.xsc
+C:\Users\halel\Desktop\DMACC - C#\Employee Searching\Employee Searching\bin\Debug\PersonnelDataSet.xsd
+C:\Users\halel\Desktop\DMACC - C#\Employee Searching\Employee Searching\bin\Debug\PersonnelDataSet.xss
+C:\Users\halel\Desktop\DMACC - C#\Employee Searching\Employee Searching\obj\Debug\Employee_Searching.EmployeeSearch.resources

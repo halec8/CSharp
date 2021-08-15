@@ -1,0 +1,10 @@
+C:\Users\halel\source\repos\TimeCalculator\TimeCalculator\obj\Debug\TimeCalculator.csprojAssemblyReference.cache
+C:\Users\halel\source\repos\TimeCalculator\TimeCalculator\obj\Debug\TimeCalculator.timeCalculator.resources
+C:\Users\halel\source\repos\TimeCalculator\TimeCalculator\obj\Debug\TimeCalculator.Properties.Resources.resources
+C:\Users\halel\source\repos\TimeCalculator\TimeCalculator\obj\Debug\TimeCalculator.csproj.GenerateResource.cache
+C:\Users\halel\source\repos\TimeCalculator\TimeCalculator\obj\Debug\TimeCalculator.csproj.CoreCompileInputs.cache
+C:\Users\halel\source\repos\TimeCalculator\TimeCalculator\bin\Debug\TimeCalculator.exe.config
+C:\Users\halel\source\repos\TimeCalculator\TimeCalculator\bin\Debug\TimeCalculator.exe
+C:\Users\halel\source\repos\TimeCalculator\TimeCalculator\bin\Debug\TimeCalculator.pdb
+C:\Users\halel\source\repos\TimeCalculator\TimeCalculator\obj\Debug\TimeCalculator.exe
+C:\Users\halel\source\repos\TimeCalculator\TimeCalculator\obj\Debug\TimeCalculator.pdb

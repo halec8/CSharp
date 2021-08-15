@@ -1,0 +1,8 @@
+Please use the following information when submitting customer support requests
+
+Package ID: w_MSDK-IVB-WIN8_p_3.5.349
+Package Contents: Intel® Media SDK for IVB Win8
+
+Please direct customer support requests through http://www.intel.com/software/products/support
+
+* Other names and brands may be claimed as the property of others.
